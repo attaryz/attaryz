@@ -3,3 +3,5 @@
 
 
 <a href="https://github.com/arman-bd"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=attaryz&langs_count=15&hide=html,css&layout=compact" height="180" /></a>
+
+<a href="https://github.com/arman-bd"><img src="https://github-readme-stats.vercel.app/api?username=attaryz&count_private=true" height="180" /></a>
